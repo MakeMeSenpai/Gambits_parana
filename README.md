@@ -26,10 +26,16 @@ Dates 3/16-3/25
 **Html Semantics, and well written article about the damamges of gambling.**
 
 ## Bike
-**Make demo pages for all games, and then work on slots until complete. Figure out better ways to help those struggling with gambling, by conducting more research and creating a lock system.** 
+**Make demo pages for all games, and then work on lotery page until complete. Figure out better ways to help those struggling with gambling, by conducting more research and creating a lock system.** 
 
 ## Car
-**All games are completed, and you are able to help people get over their gambling addiction** 
+**All games are completed, and logistics behind saving user info is complete.** 
+
+## Stretch Limo
+**Add anonymous group chat, and add vitual money system.**
+
+## Crazy chopper
+**give you website traffic, give resources to professional help as well as eveidence that your site helps others**
 
 
 ## Personal Achievement Goals:
