@@ -47,9 +47,9 @@ Dates 3/16-3/25
 
 ## Wireframes
 
-![Very basic](/wire.jpeg)
-![wireframe of what](/frame.jpeg)
-![I want to build](/solutions.jpeg)
+![Very basic](static/wireframes/wire.jpeg)
+![wireframe of what](static/wireframes/frame.jpeg)
+![I want to build](static/wireframes/solutions.jpeg)
 
 
 ## Evaluation
